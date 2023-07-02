@@ -648,7 +648,7 @@ action:
               - alias: "Welcome message"
                 service: script.my_notify
                 data:
-                  title: "📬 Benvnuto nel Centro Notifiche! 🕵"
+                  title: "📬 Benvenuto nel Centro Notifiche! 🕵"
                   message: |
                     Centro Notifiche configurato ed operativo!
                   alexa:
